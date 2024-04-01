@@ -36,16 +36,19 @@
     section(
       title: "Work Experience",
       content: (
-        subSection(
-          title: "Target",
-          titleEnd: "Amsterdam, NY",
-          subTitle: "Freezer Designated Business Owner",
-          subTitleEnd: "(March 2015 - June 2022)",
-          /*content: list(
-            [],
-          ),*/
+			subSection(
+			  title: "Target",
+			  titleEnd: "Amsterdam, NY",
+			  subTitle: "Freezer Designated Business Owner",
+			  subTitleEnd: "(March 2015 - June 2022)",
+			),
+			subSection(
+			  title: "Deli Master",
+			  titleEnd: "Broadalbin, NY",
+			  subTitle: "Delivery Driver",
+			  subTitleEnd: "(November 2023 - Present)",
+			),
         ),
-      ),
     ),
     section(
       title: "Ongoing Open Source Contributions",
